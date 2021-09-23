@@ -20,7 +20,7 @@ A simple youtube search application using google's api with React Hooks. [Demo](
 
 ### Vercel
 
-To deploy on vercel use `vercel`
+To deploy on vercel use `vercel`\
 To redeploy use `vercel --prod`
 
 # Getting Started with Create React App
