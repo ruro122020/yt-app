@@ -18,12 +18,16 @@ A simple youtube search application using google's api with React Hooks. [Demo](
 - Identify the outputs to that code
 - Extract all of the code into a separate function, receiving the inputs as arguments, and returning the outputs
 
+# Deploying Applications
+
 ### Vercel
 
 To deploy on vercel use `vercel`\
 To redeploy use `vercel --prod`
 
 ### Netlify
+
+If you make any changes, push them to github and netlify will automatically rebuild application.
 
 # Getting Started with Create React App
 
