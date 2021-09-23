@@ -1,6 +1,6 @@
 # Notes
 
-A simple youtube search application using google's api with React Hooks. [Demo](https://videos-hooks-peach-xi.vercel.app)
+A simple youtube search application using google's api with React Hooks.
 
 ### Custom Hooks
 
@@ -24,10 +24,12 @@ A simple youtube search application using google's api with React Hooks. [Demo](
 
 To deploy on vercel use `vercel`\
 To redeploy use `vercel --prod`
+[Demo](https://videos-hooks-peach-xi.vercel.app) - on Vercel
 
 ### Netlify
 
 If you make any changes, push them to github and netlify will automatically rebuild application.
+[Demo](https://sharp-liskov-f4ae3d.netlify.app) - on Netlify
 
 # Getting Started with Create React App
 
